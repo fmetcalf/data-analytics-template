@@ -5,7 +5,7 @@
 ### source
 
 URL:
-Input the source for the raw data above.
+Input the source for the raw data
 
 ### raw
 
