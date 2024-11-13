@@ -2,6 +2,11 @@
 
 ## Folders
 
+### source
+
+URL:
+Input the source for the raw data above.
+
 ### raw
 
 Original, unmodified data after downloading, scraping, etc.
