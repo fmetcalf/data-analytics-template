@@ -16,7 +16,7 @@ Give a quick synopsis of what was learned. Keep it breif. PLEASE GO TO RESULTS T
 
 # Instruction to run the application
 
-- Frist read all README
+- Frist read all README files
 - Insert all necessary information for the current project you are working on
 - If you make changes enter them into change long
 - Make sure to save and commit every so often
