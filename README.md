@@ -1,8 +1,18 @@
+# badge
+
+![Python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 # data-analytics-template
 
 Template for data analytics projects using Python notebooks
 
-## To do List
+# Description
+
+# What did I learn
+
+# Instruction to run the application
+
+## To do list
 
 [ ] item 1  
 ~[ ] item 2~  
