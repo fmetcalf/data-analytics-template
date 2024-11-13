@@ -11,3 +11,12 @@ Original, unmodified data after downloading, scraping, etc.
 Data after all cleaning, processing, and analyzing.
 
 ---
+
+### Data Dictionary
+
+| Field | Description                       | Sample Data |
+| ----- | --------------------------------- | ----------- |
+| Name  | The name of the individual        | Alice       |
+| Age   | Age of the individual in years    | 24          |
+| City  | City where the individual resides | New York    |
+| Score | Score obtained by the individual  | 85          |
