@@ -8,9 +8,18 @@ Template for data analytics projects using Python notebooks
 
 # Description
 
+Insert a short paragraph of what this project is about. Include why you are doing it, for what purpose will this project serve, and anything else interesting about the project.
+
 # What did I learn
 
+Give a quick synopsis of what was learned. Keep it breif. PLEASE GO TO RESULTS TO SEE FULL DESCRIPTIONS OF CHANGES
+
 # Instruction to run the application
+
+- Frist read all README
+- Insert all necessary information for the current project you are working on
+- If you make changes enter them into change long
+- Make sure to save and commit every so often
 
 ## To do list
 
