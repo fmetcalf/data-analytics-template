@@ -29,6 +29,3 @@ Give a quick synopsis of what was learned. Keep it breif. PLEASE GO TO RESULTS T
 ~[ ] item 4~
 
 ## Change log
-
-- 2024-11-13 fmm Added new items
-- 2024-11-13 fmm Deleted items
